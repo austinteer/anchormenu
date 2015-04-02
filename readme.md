@@ -7,8 +7,8 @@
 
 Download the [production version][min] or the [development version][max].
 
-[min]: https://raw.githubusercontent.com/austinteer/jquery-anchormenu/master/dist/jquery.anchormenu.min.js
-[max]: https://raw.githubusercontent.com/austinteer/jquery-anchormenu/master/dist/jquery.anchormenu.js
+[min]: https://raw.githubusercontent.com/austinteer/anchormenu/master/dist/jquery.anchormenu.min.js
+[max]: https://raw.githubusercontent.com/austinteer/anchormenu/master/dist/jquery.anchormenu.js
 
 In your web page:
 
